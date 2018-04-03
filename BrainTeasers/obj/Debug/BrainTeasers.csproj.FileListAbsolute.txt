@@ -1,0 +1,8 @@
+C:\Users\nxh4vpn\Documents\GitHub\BrainTeasers\BrainTeasers\bin\Debug\BrainTeasers.exe.config
+C:\Users\nxh4vpn\Documents\GitHub\BrainTeasers\BrainTeasers\bin\Debug\BrainTeasers.exe
+C:\Users\nxh4vpn\Documents\GitHub\BrainTeasers\BrainTeasers\bin\Debug\BrainTeasers.pdb
+C:\Users\nxh4vpn\Documents\GitHub\BrainTeasers\BrainTeasers\obj\Debug\BrainTeasers.csprojResolveAssemblyReference.cache
+C:\Users\nxh4vpn\Documents\GitHub\BrainTeasers\BrainTeasers\obj\Debug\BrainTeasers.csproj.CoreCompileInputs.cache
+C:\Users\nxh4vpn\Documents\GitHub\BrainTeasers\BrainTeasers\obj\Debug\BrainTeasers.exe
+C:\Users\nxh4vpn\Documents\GitHub\BrainTeasers\BrainTeasers\obj\Debug\BrainTeasers.pdb
+C:\Users\nxh4vpn\Documents\GitHub\BrainTeasers\BrainTeasers\bin\Debug\EasyConsole.dll
