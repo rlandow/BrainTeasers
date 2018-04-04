@@ -15,6 +15,7 @@ namespace Numbers
             var menu = new EasyConsole.Menu()
                 .Add("Sum Even Numbers in an array - For loop", () =>  sumEvenNumbersInAnArray())
                 .Add("Sum Numbers in an array - Extension method", () => ConvertArrayToListAndSumWithExtensionMethod())
+                .Add("Check if string is a palindrome", () => CheckIfPalindrome())
                 .Add("Exit", () => Environment.Exit(0));
             
             menu.Display();
@@ -94,6 +95,16 @@ namespace Numbers
 
             Console.WriteLine(sum1);
             //Console.WriteLine(sum2);
+        }
+
+        static void CheckIfPalindrome()
+        {
+            Console.Write("Enter string: ");
+
+            string str = Console.ReadLine();
+
+            Console.WriteLine(str.SequenceEqual(str.Reverse()));
+
         }
     }
 }
